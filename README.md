@@ -1,4 +1,5 @@
 # midterm-report
+# midterm-report/src_img/01.img
 01 類
 類別是具有相似結構、行為和關係的一組物件的描述符，是物件導向系統中最重要的建構塊。
 三個格子由上至下分別表示：
